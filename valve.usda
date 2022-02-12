@@ -1,6 +1,6 @@
 #usda 1.0
 (
-    "Generated with /usr/local/USD/bin/usdstitchclips --out valve.usda --clipPath /valve valve.101.usda valve.102.usda"
+    "Generated with /usr/local/USD/bin/usdstitchclips --out valve.usda --clipPath /valve valve.101.usda valve.102.usda -s 101 -e 102"
     endTimeCode = 102
     startTimeCode = 101
     subLayers = [
