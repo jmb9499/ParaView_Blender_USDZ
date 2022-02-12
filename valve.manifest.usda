@@ -1,0 +1,13 @@
+#usda 1.0
+
+over "valve"
+{
+    over "valve"
+    {
+        int[] faceVertexCounts
+        int[] faceVertexIndices
+        normal3f[] normals
+        point3f[] points
+    }
+}
+
